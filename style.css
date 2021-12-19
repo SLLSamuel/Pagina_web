@@ -40,7 +40,6 @@ a {
     font-family: fantasy;
     color: #ffffff;
     font-size: xx-large;
-    -webkit-text-stroke: 1.5px black;
 }
 
 .navbar-brand:hover {
