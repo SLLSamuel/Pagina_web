@@ -57,7 +57,7 @@ a {
 .banner {
     background-attachment: fixed;
     background-color: #ece1ea;
-    background-image: url(images/fondo\ nuevo.png);
+    background-image: url(images/fondo\ nuevo.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -291,7 +291,7 @@ a {
 .call-to-action {
     background-attachment: fixed;
     background-color: #dbdbdb;
-    background-image: url(images/fondo\ nuevo.png);
+    background-image: url(images/fondo\ nuevo.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
